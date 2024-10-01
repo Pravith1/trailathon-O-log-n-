@@ -1,0 +1,17 @@
+[
+    {
+    "title": "1984",
+    "author": "George Orwell",
+    "genre": "Fiction",
+    "publication_date": "1949-06-08",
+    "price": 12.99
+  },
+  {
+    "title": "Brave New World",
+    "author": "Aldous Huxley",
+    "genre": "Dystopian",
+    "publication_date": "1932-08-31",
+    "price": 15.99
+  }
+  
+]
